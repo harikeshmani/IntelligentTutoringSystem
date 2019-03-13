@@ -1,0 +1,29 @@
+ .form-group label { color: purple; }
+                  .btn-default { width: 60%; margin-left: 20%; }
+ #chatBox {
+    display: none;
+    position: absolute;
+    width: 25%;
+    height: 100%;
+    padding: 10px;
+    background: #1d68b2;
+    color: #54b748;
+    box-shadow: 0 0 0.1em #000;
+    text-align: center;
+    bottom: 0px;
+    cursor: pointer;
+    overflow: scroll;
+     opacity: 1; 
+}
+#close {
+    
+      position: initial;
+    width: 44px;
+    height: 23px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    background: #ffffff;
+    color: #54b748;
+    right: 0px;
+    top: 0px;
+}

@@ -1,0 +1,43 @@
+[23-Aug-2018 06:56:54 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[23-Aug-2018 06:56:54 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[23-Aug-2018 06:59:32 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[23-Aug-2018 06:59:32 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:31:50 UTC] PHP Notice:  Undefined variable: value_primarys in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 11
+[04-Sep-2018 06:38:44 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:44 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:48 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:48 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:50 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:50 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:51 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:51 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:52 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:53 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:53 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:55 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:55 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:38:56 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:38:56 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:39:14 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:39:14 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 06:39:49 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 06:39:49 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 08:27:52 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 08:27:52 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[04-Sep-2018 08:28:04 UTC] PHP Warning:  imagettfbbox(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 105
+[04-Sep-2018 08:28:04 UTC] PHP Warning:  imagettftext(): Could not find/open font in /home/i9uw4h3tsz36/public_html/its/tutor/php/phptextClass.php on line 62
+[18-Dec-2018 05:53:35 UTC] PHP Notice:  Undefined variable: value_primarys in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 11
+[18-Dec-2018 05:53:35 UTC] PHP Notice:  Undefined variable: value_highs in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 25
+[18-Dec-2018 05:53:35 UTC] PHP Notice:  Undefined variable: value_primarys in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 11
+[18-Dec-2018 05:53:35 UTC] PHP Notice:  Undefined variable: value_highs in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 25
+[18-Dec-2018 05:55:45 UTC] PHP Warning:  move_uploaded_file(../api/user_image/tutor/demo33.jpg): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/its/tutor/php/upload_profile_pic.php on line 11
+[18-Dec-2018 05:55:45 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCBZW7X' to '../api/user_image/tutor/demo33.jpg' in /home/i9uw4h3tsz36/public_html/its/tutor/php/upload_profile_pic.php on line 11
+[07-Jan-2019 07:05:13 UTC] PHP Notice:  Undefined variable: value_primarys in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 11
+[07-Jan-2019 07:28:47 UTC] PHP Warning:  move_uploaded_file(../api/user_image/tutor/manish_34.jpg): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/its/tutor/php/update_profile.php on line 24
+[07-Jan-2019 07:28:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDz4JKM' to '../api/user_image/tutor/manish_34.jpg' in /home/i9uw4h3tsz36/public_html/its/tutor/php/update_profile.php on line 24
+[07-Jan-2019 10:08:38 UTC] PHP Warning:  move_uploaded_file(../api/user_image/tutor/demo33.jpg): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/its/tutor/php/upload_profile_pic.php on line 11
+[07-Jan-2019 10:08:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7CYisT' to '../api/user_image/tutor/demo33.jpg' in /home/i9uw4h3tsz36/public_html/its/tutor/php/upload_profile_pic.php on line 11
+[07-Jan-2019 10:08:58 UTC] PHP Warning:  move_uploaded_file(../api/user_image/tutor/demo_33.jpg): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/its/tutor/php/update_profile.php on line 24
+[07-Jan-2019 10:08:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmwMWm5' to '../api/user_image/tutor/demo_33.jpg' in /home/i9uw4h3tsz36/public_html/its/tutor/php/update_profile.php on line 24
+[08-Jan-2019 11:34:59 UTC] PHP Notice:  Undefined variable: value_primarys in /home/i9uw4h3tsz36/public_html/its/tutor/php/registeration_step3.php on line 11

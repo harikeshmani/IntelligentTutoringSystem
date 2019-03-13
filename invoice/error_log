@@ -1,0 +1,249 @@
+[14-Mar-2018 07:01:46 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 1259
+[14-Mar-2018 07:01:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php:271
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#3 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(334): PDF->Header()
+#4 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 271
+[14-Mar-2018 07:02:32 UTC] PHP Warning:  fopen(logo.png): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 1259
+[14-Mar-2018 07:02:32 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo.png in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php:271
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1261): FPDF->Error('Can't open imag...')
+#1 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(885): FPDF->_parsepng('logo.png')
+#2 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#3 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(334): PDF->Header()
+#4 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(36): FPDF->AddPage()
+#5 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 271
+[14-Mar-2018 07:10:20 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: logo.png in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php:271
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1262): FPDF->_parsepngstream(Resource id #4, 'logo.png')
+#2 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(885): FPDF->_parsepng('logo.png')
+#3 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(10): FPDF->Image('logo.png', 10, 6, 30)
+#4 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(334): PDF->Header()
+#5 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(36): FPDF->AddPage()
+#6 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 271
+[14-Mar-2018 08:44:51 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ')' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[14-Mar-2018 08:46:12 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ')' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[14-Mar-2018 08:50:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PDF_Invoice::fact_dev(), 1 passed in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13 and exactly 2 expected in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php:157
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(13): PDF_Invoice->fact_dev('INVOICE')
+#1 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 157
+[14-Mar-2018 09:07:41 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 22
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:07:58 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:07:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:08:38 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:08:38 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:09:11 UTC] PHP Notice:  Undefined index: LINE TOATL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:09:11 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:13:05 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:13:05 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:13:05 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 399
+[14-Mar-2018 09:13:05 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:13:05 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:13:05 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 399
+[14-Mar-2018 09:13:47 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:13:47 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:13:47 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:13:47 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:14:08 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:14:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:14:08 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:14:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:15:29 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:15:29 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:15:29 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:15:29 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:17:28 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:17:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:17:28 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:17:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:17:58 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:17:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:17:58 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:17:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:21:06 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:21:08 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:21:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:21:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:21:08 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:21:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:21:08 UTC] PHP Notice:  Undefined index: QTY in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:21:08 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:25:27 UTC] PHP Notice:  Undefined index: ITEM in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:25:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:25:28 UTC] PHP Notice:  Undefined index: DESCRIPTION in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:25:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:25:28 UTC] PHP Notice:  Undefined index: UNIT PRICE in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:25:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:25:28 UTC] PHP Notice:  Undefined index: DISCOUNT in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:25:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:25:28 UTC] PHP Notice:  Undefined index: LINE TOATAL in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 396
+[14-Mar-2018 09:25:28 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:30:21 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:32:26 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 09:33:25 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[14-Mar-2018 10:00:13 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:38:54 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:43:18 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:45:13 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:50:52 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:50:52 UTC] PHP Warning:  file_put_contents(https://pinkrickshawdesign.in/glow/invoice/generated_invoice/invoicee.pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 1021
+[19-Jun-2018 05:50:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Unable to create output file: https://pinkrickshawdesign.in/glow/invoice/generated_invoice/invoicee.pdf in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php:271
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1022): FPDF->Error('Unable to creat...')
+#1 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(58): FPDF->Output('F', 'https://pinkric...')
+#2 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 271
+[19-Jun-2018 05:51:58 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:51:58 UTC] PHP Warning:  file_put_contents(https://pinkrickshawdesign.in/glow/invoice/generated_invoice/invoicee.pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 1021
+[19-Jun-2018 05:51:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Unable to create output file: https://pinkrickshawdesign.in/glow/invoice/generated_invoice/invoicee.pdf in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php:271
+Stack trace:
+#0 /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php(1022): FPDF->Error('Unable to creat...')
+#1 /home/i9uw4h3tsz36/public_html/glow/invoice/index.php(58): FPDF->Output('F', 'https://pinkric...')
+#2 {main}
+  thrown in /home/i9uw4h3tsz36/public_html/glow/invoice/fpdf.php on line 271
+[19-Jun-2018 05:52:50 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 05:55:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 05:55:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 05:55:55 UTC] PHP Notice:  Undefined index: user_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 5
+[19-Jun-2018 05:55:55 UTC] PHP Notice:  Undefined index: session_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 6
+[19-Jun-2018 05:55:55 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 05:55:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 05:55:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 05:55:55 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 05:55:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 05:55:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 14
+[19-Jun-2018 05:55:55 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:02:01 UTC] PHP Notice:  Undefined index: user_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 5
+[19-Jun-2018 06:02:01 UTC] PHP Notice:  Undefined index: session_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 6
+[19-Jun-2018 06:02:01 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:02:01 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 14
+[19-Jun-2018 06:02:01 UTC] PHP Notice:  Use of undefined constant pdf - assumed 'pdf' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:02:01 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:05:13 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE) in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:06:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:07:41 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:07:41 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 14
+[19-Jun-2018 06:07:41 UTC] PHP Notice:  Use of undefined constant pdf - assumed 'pdf' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:07:41 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:08:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:12:03 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:12:03 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 14
+[19-Jun-2018 06:12:03 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 3
+[19-Jun-2018 06:13:16 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 9
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:13:16 UTC] PHP Notice:  Undefined variable: link in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 13
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 14
+[19-Jun-2018 06:13:16 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:15:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:15:16 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:16:15 UTC] PHP Parse error:  syntax error, unexpected '$user_id' (T_VARIABLE) in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 27
+[19-Jun-2018 06:17:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:17:12 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:19:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:19:29 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:43:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:43:18 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:54:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:54:07 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:54:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:54:36 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132
+[19-Jun-2018 06:56:47 UTC] PHP Notice:  Undefined index: user_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 5
+[19-Jun-2018 06:56:47 UTC] PHP Notice:  Undefined index: session_id in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 6
+[19-Jun-2018 06:56:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/i9uw4h3tsz36/public_html/glow/invoice/index.php on line 10
+[19-Jun-2018 06:56:47 UTC] PHP Warning:  Division by zero in /home/i9uw4h3tsz36/public_html/glow/invoice/invoice.php on line 132

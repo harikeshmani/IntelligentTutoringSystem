@@ -1,0 +1,171 @@
+[03-May-2018 12:19:05 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:19:05 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:19:05 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:19:05 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:19:05 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[03-May-2018 12:19:05 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[03-May-2018 12:19:05 UTC] PHP Warning:  move_uploaded_file(../api/user_image/tutor/Sudhir160.jpeg): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/webcam/upload_profile_pic.php on line 13
+[03-May-2018 12:19:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6HEFFF' to '../api/user_image/tutor/Sudhir160.jpeg' in /home/i9uw4h3tsz36/public_html/glow/tutor/webcam/upload_profile_pic.php on line 13
+[03-May-2018 12:21:34 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:21:34 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:21:34 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:21:34 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:21:34 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[03-May-2018 12:21:34 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[03-May-2018 12:22:16 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:22:16 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:22:16 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:22:16 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:22:16 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[03-May-2018 12:22:16 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[03-May-2018 12:23:24 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:23:24 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:23:24 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:23:24 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:23:24 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[03-May-2018 12:23:24 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[03-May-2018 12:25:23 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:25:23 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[03-May-2018 12:25:23 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:25:23 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[03-May-2018 12:25:23 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[03-May-2018 12:25:23 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 08:58:39 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 08:58:39 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 08:58:39 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 08:58:39 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 08:58:39 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 08:58:39 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 08:59:40 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 08:59:40 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 08:59:40 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 08:59:40 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 08:59:40 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 08:59:40 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:01:52 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:01:52 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:01:52 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:01:52 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:01:52 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:01:52 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:04:36 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:04:36 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:04:36 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:04:36 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:04:36 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:04:36 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:09:54 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:09:54 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:09:54 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:09:54 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:09:54 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:09:54 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:11:31 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:11:31 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:11:31 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:11:31 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:11:31 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:11:31 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:13:25 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:13:25 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:13:25 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:13:25 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:13:25 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:13:25 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:14:53 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:14:53 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:14:53 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:14:53 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:14:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:14:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:20:25 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:20:25 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:20:25 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:20:25 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:20:25 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:20:25 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 09:39:23 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:39:23 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 09:39:23 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:39:23 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 09:39:23 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 09:39:23 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[04-May-2018 11:38:22 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 11:38:22 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[04-May-2018 11:38:22 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 11:38:22 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[04-May-2018 11:38:22 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[04-May-2018 11:38:22 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 04:51:40 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 04:51:40 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 04:51:40 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 04:51:40 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 04:51:40 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 04:51:40 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:21:13 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:21:13 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:21:13 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:21:13 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:21:13 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:21:13 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:41:26 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:41:26 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:41:26 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:41:26 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:41:26 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:41:26 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:42:26 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:42:26 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:42:26 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:42:26 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:42:26 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:42:26 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:42:53 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:42:53 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:42:53 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:42:53 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:42:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:42:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:45:24 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:45:24 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:45:24 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:45:24 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:45:24 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:45:24 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:45:53 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:45:53 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:45:53 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:45:53 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:45:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:45:53 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:46:11 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:46:11 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:46:11 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:46:11 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:46:11 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:46:11 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:48:09 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:48:09 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:48:09 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:48:09 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:48:09 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:48:09 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:49:50 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:49:50 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:49:50 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:49:50 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:49:50 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:49:50 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:49:58 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:49:58 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:49:58 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:49:58 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:49:58 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:49:58 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[10-May-2018 10:50:34 UTC] PHP Warning:  include(api/notification.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:50:34 UTC] PHP Warning:  include(): Failed opening 'api/notification.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 1
+[10-May-2018 10:50:34 UTC] PHP Warning:  include(api/notification_ios.php): failed to open stream: No such file or directory in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:50:34 UTC] PHP Warning:  include(): Failed opening 'api/notification_ios.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 2
+[10-May-2018 10:50:34 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 29
+[10-May-2018 10:50:34 UTC] PHP Notice:  Undefined index: file in /home/i9uw4h3tsz36/public_html/glow/tutor/config.php on line 32
+[27-Jun-2018 10:56:25 UTC] PHP Parse error:  syntax error, unexpected '$tutor_name' (T_VARIABLE) in /home/i9uw4h3tsz36/public_html/glow/tutor/webcam/tutor_doc_upload.php on line 8

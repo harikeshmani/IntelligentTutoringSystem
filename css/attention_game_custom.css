@@ -1,0 +1,13 @@
+
+    .centered {
+    position: absolute;
+    bottom: 55%;
+    left: 43%;
+    font-size: 5em;
+    color: aliceblue;
+    font-weight: bolder;
+    }
+    .pictochange {
+    cursor: pointer;
+    }
+    
